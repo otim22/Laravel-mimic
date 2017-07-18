@@ -1,3 +1,3 @@
 # Laravel-mimic
 
-This a basic usable php framework that mimics laravel framework.
+This is a basic usable php framework that mimics laravel framework.
